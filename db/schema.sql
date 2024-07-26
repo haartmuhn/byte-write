@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS byte-write;
+CREATE DATABASE byte-write;
